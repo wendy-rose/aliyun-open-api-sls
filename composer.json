@@ -1,5 +1,5 @@
 {
-  "name": "wendy/aliyun-open-api-sls",
+  "name": "wendy/aliyun-sls-api",
   "description": "The SLS SDK for Aliyun OpenAPI",
   "keywosls": [
     "aliyun",
